@@ -1,0 +1,17 @@
+styles.css
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  *::selection {
+    color: white;
+    background-color: #1182eb;
+  }
+
+  body {
+    background-color: white;
+    max-width: 1400px;
+    margin: auto;
+  }
